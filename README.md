@@ -7,9 +7,11 @@ An intelligent customer support platform that automates ticket classification, r
 ## 🚀 Live Demo
 
 Deployed on Streamlit Cloud
-👉 Add your link here: `https://your-app-name.streamlit.app`
+https://customer-support-ticketing-system-nwufhbdxhuqfxdxmttmpxq.streamlit.app/
 
 ---
+<img width="1902" height="762" alt="image" src="https://github.com/user-attachments/assets/1507de5d-4c5a-4e85-8b08-85e9390d8d80" />
+
 
 ## 🧠 Project Overview
 
